@@ -2,6 +2,8 @@ TASK : Create an interactive navigation menu that changes color or style when sc
 
 BELOW IS THE PREVIEW OF THE FRONTEND PART OF THE WEBSITE.
 
+LinkedIn Post : https://www.linkedin.com/posts/pratham-singh733_internship-webdevelopment-skillcrafttechnology-activity-7218642297947627520-7-TY?utm_source=share&utm_medium=member_desktop
+
 ![Screenshot 2024-07-02 210314](https://github.com/Pratham733/SCT_WD_1/assets/119106718/6cd6fb77-9655-493b-a058-9744c9fccf80)
 
 
